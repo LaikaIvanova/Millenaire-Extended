@@ -1,0 +1,3 @@
+sells=normanAxe,normanPickaxe,normanShovel,normanHoe,iron,gold,diamond
+
+buys=normanAxe,normanPickaxe,normanShovel,normanHoe,iron,gold,diamond

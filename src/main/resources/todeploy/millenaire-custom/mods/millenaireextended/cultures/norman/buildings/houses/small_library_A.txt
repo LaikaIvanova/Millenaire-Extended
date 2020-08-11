@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=8
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=book
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Petite Bibliothèque
+initial.priority=800
+initial.pathlevel=1
+initial.tag=small_library
+initial.tag=leasure
+initial.shop=small_library
+initial.female=wife
+
+//Parameter for upgrades
+upgrade1.priority=80
+

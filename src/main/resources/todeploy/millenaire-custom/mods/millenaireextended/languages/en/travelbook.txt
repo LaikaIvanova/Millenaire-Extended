@@ -1,0 +1,15 @@
+//* These strings are used in the Travel Book for goods used by multiple cultures
+
+travelbook.trade_good.book_franksigmar_one.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_two.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_three.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_four.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_five.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_six.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_seven.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_eight.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_nine.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_ten.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_eleven.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_twelve.desc=Did your parents never told you that reading someone elses diary is not nice?
+travelbook.trade_good.book_franksigmar_thirteen.desc=Did your parents never told you that reading someone elses diary is not nice?

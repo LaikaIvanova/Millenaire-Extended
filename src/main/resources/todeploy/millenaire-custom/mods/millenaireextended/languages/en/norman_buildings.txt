@@ -1,0 +1,1 @@
+small_library_A0=Small Library

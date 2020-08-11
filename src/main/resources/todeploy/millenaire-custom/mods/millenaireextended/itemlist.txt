@@ -1,0 +1,39 @@
+//Name                     | Only Indicative
+//Item ID                  | Item Reference
+//Item Meta                | Meta Data
+//Label                    | Not used
+
+//Minecraft
+emerald;minecraft:emerald;0
+quartz;minecraft:quartz;0
+glowstonedust;minecraft:glowstone_dust;0
+fermentedspidereye;minecraft:fermented_spider_eye;0
+gunpowder;minecraft:gunpowder;0
+dragonbreath;minecraft:dragon_breath;0
+sugar;minecraft:sugar;0
+rabbitfoot;minecraft:rabbit_foot;0
+glisteringmelonslice;minecraft:speckled_melon;0
+spidereye;minecraft:spider_eye;0
+pufferfish;minecraft:fish;3
+magmacream;minecraft:magma_cream;0
+goldencarrot;minecraft:golden_carrot;0
+blazepowder;minecraft:blaze_powder;0
+ghasttear;minecraft:ghast_tear;0
+goldore;minecraft:gold_ore;0;false;215/217/20
+ironore;minecraft:iron_ore;0;false;231/232/177
+coalore;minecraft:coal_ore;0;false;8/8/5
+
+//Millénaire Extended
+book_franksigmar_one;millenaireextended:book_franksigmar_one;0
+book_franksigmar_two;millenaireextended:book_franksigmar_two;0
+book_franksigmar_three;millenaireextended:book_franksigmar_three;0
+book_franksigmar_four;millenaireextended:book_franksigmar_four;0
+book_franksigmar_five;millenaireextended:book_franksigmar_five;0
+book_franksigmar_six;millenaireextended:book_franksigmar_six;0
+book_franksigmar_seven;millenaireextended:book_franksigmar_seven;0
+book_franksigmar_eight;millenaireextended:book_franksigmar_eight;0
+book_franksigmar_nine;millenaireextended:book_franksigmar_nine;0
+book_franksigmar_ten;millenaireextended:book_franksigmar_ten;0
+book_franksigmar_eleven;millenaireextended:book_franksigmar_eleven;0
+book_franksigmar_twelve;millenaireextended:book_franksigmar_twelve;0
+book_franksigmar_thirteen;millenaireextended:book_franksigmar_thirteen;0

@@ -1,0 +1,15 @@
+//* These strings are used in the Travel Book for goods used by multiple cultures
+
+travelbook.trade_good.book_franksigmar_one.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_two.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_three.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_four.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_five.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_six.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_seven.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_eight.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_nine.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_ten.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_eleven.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_twelve.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?
+travelbook.trade_good.book_franksigmar_thirteen.desc=Haben deine Eltern dir niemals erzählt, dass es sich nicht gehört anderer Leute Tagebuch zu lesen?

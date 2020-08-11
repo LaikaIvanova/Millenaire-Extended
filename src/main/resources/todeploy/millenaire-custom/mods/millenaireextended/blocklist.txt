@@ -1,0 +1,11 @@
+//Name                     | Only Indicative
+//Block Reference          | minecraft:dirt
+//Meta Value/Value Chain   | 0/variant=oak
+//Placed after ther Blocks | true/false
+//Color                    | 255/255/255
+//Price                    | Block/Item reference;variant=birch;6
+
+//Minecraft
+goldore;minecraft:gold_ore;0;false;215/217/20
+ironore;minecraft:iron_ore;0;false;231/232/177
+coalore;minecraft:coal_ore;0;false;8/8/5

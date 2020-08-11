@@ -1,0 +1,1 @@
+travelbook.building.small_library.desc=Ein Ort an dem man Bücher kaufen kann. Viele Bücher. Aber sei leise!
